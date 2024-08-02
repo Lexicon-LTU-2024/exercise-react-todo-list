@@ -4,7 +4,7 @@ In this exercise I want you to create a todo list with React Typescript. The tod
 
 **Before you start, you must run a `npm install` in this folder in order to install all the dependencies. Then you do a `npm run dev` in order to start the application. NO "Live Server" usage here as Vite will fire up a development server for you.**
 
-Below you have a couple of User Stories that are going to follow.
+Below you have a couple of User Stories that you have to follow.
 
 - As a user I want to be able to view all my todos in the same place, to get a good overview of what I have to do.
 
@@ -14,16 +14,16 @@ Below you have a couple of User Stories that are going to follow.
 
 - As a user I want to remove a todo from the list so I can keep my list as clean and short as possible.
 
-- As a user I want to be able to move todos up and down in order to prioritize what I have to do.
-
-- As a user I want everything on my todo list on the same page because I don't want to navigate between pages and to get a good overview of everything.
+- As a user I want the list of todos and the form to add a new todo seperated from eachother. They must be on different pages. This can be solved with **_React Router_**.
 
 - As a user I want to be able to put my name _(author of a todo)_ on a todo, so everyone in my family can add their own todos to the todo list.
 
-- As a user I want to be able to edit existing todos in case I remember something that has to do with a specific todo.
-
 - As a user I want a timestamp to be added to my new todos in order better se how old all the todos are.
 
-- As a user I want to be able to sort my todos after either timestamp or author.
+- _( bonus )_ As a user I want to be able to edit existing todos in case I remember something that has to do with a specific todo.
+
+- _( bonus )_ As a user I want to be able to move todos up and down in order to prioritize what I have to do.
+
+- _( bonus )_ As a user I want to be able to sort my todos after either time\*stamp or author.
 
 Down below is a link to free figma designs regarding todo lists: [Todo List Figmas](https://www.figma.com/community/tag/todo%20list/files).
