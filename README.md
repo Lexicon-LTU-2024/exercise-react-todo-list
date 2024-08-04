@@ -16,6 +16,8 @@ Below you have a couple of User Stories that you have to follow.
 
 - As a user I want the list of todos and the form to add a new todo seperated from eachother. They must be on different pages. This can be solved with **_React Router_**.
 
+- As a user I want an about page that describes the purpose of the todo list. This must also be its own page seperated from the others. This can be solved with **_React Router_**.
+
 - As a user I want to be able to put my name _(author of a todo)_ on a todo, so everyone in my family can add their own todos to the todo list.
 
 - As a user I want a timestamp to be added to my new todos in order better se how old all the todos are.
