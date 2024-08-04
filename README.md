@@ -8,7 +8,7 @@ Below you have a couple of User Stories that you have to follow.
 
 - As a user I want to be able to view all my todos in the same place, to get a good overview of what I have to do.
 
-- As user I want to be able to add new todos to my todo list so I can update my todo list when I find something else that I need to do.
+- As user I want to be able to add new todos _( on a new page => **React router** )_ to my todo list so I can update my todo list when I find something else that I need to do.
 
 - As a user I want to mark a todo as completed so I can see which todos I have left to do.
 
